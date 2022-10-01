@@ -1,4 +1,4 @@
-from globalVariables import *
+from src.globalVariables import *
 
 def parser(args: list) -> list:
 

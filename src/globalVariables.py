@@ -3,4 +3,4 @@ HELP: str = """
 --version, -v ; prints version
 """
 
-VERSION: float = 0.01
+VERSION: float = 0.02
